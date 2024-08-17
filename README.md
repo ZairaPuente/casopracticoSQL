@@ -1,1 +1,1 @@
-# casopracticoSQL
+# Caso práctico SQL de Zaira Puente
